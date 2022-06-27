@@ -1,6 +1,6 @@
 ---
 title: "Visualizing Starwars characters"
-author: "Mine Çetinkaya-Rundel"
+author: "Add your name"
 output: github_document
 ---
 
